@@ -17,7 +17,7 @@ We focus on **three pillars**:
 2. **AI-Driven Data Automation** – End-to-end data pipelines and agentic AI systems (Pulseflow, NeuraSync).  
 3. **Next-Gen Experiences** – Interfaces and applications that make intelligence accessible (Assist, The Third Inferno).  
 
----
+
 
 ## 🛠 End-to-End Automation Pipeline
 
@@ -35,7 +35,7 @@ Together, they form a **flexible, configurable automation fabric**.
 A user can deploy the pipeline, connect their backend, and instantly communicate with the **global 1B+ userbase of social and messaging platforms**.  
 This makes it possible to ingest, enrich, and act on data streams in real time — while integrating directly with enterprise workflows.  
 
----
+
 
 ## 📦 Core Projects
 
@@ -45,7 +45,7 @@ This makes it possible to ingest, enrich, and act on data streams in real time �
 - **Assist**  
   AI-first personal assistant with streaming chat, task execution, and cross-platform integrations.  
 
----
+
 
 ## 📖 Philosophy
 
@@ -55,7 +55,7 @@ This makes it possible to ingest, enrich, and act on data streams in real time �
 - **Innovation Through Integration:** AI, automation, and graph intelligence are not ends in themselves — they are tools to unlock the value hidden in data.  
 - **Insight is the Product:** The real output of Binari Digital is actionable intelligence that drives decisions.  
 
----
+
 
 ## 🌍 Get Involved
 
